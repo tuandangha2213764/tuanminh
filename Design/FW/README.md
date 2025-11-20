@@ -1,2 +1,0 @@
-# tuanminh
-Embeded System Desgin 

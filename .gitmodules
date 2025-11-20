@@ -1,0 +1,3 @@
+[submodule "Design/FW_SW"]
+	path = Design/FW_SW
+	url = https://github.com/tuandangha2213764/Embeded_System_Design_FW.git
